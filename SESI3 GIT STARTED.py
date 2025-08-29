@@ -1,4 +1,3 @@
-
 nama = "Radit"
 program_kesukaan = "Python"
 umur = 18
